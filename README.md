@@ -1,3 +1,5 @@
+Official CA: 6TdcyTYRUqUM4hrgKdvgfCKWxbWkGgpbh37AC3Wnpump
+
 # Gitscope
 
 Gitscope is a real-time Solana dashboard for monitoring GitHub-linked token activity from earliest signal to later validation.
